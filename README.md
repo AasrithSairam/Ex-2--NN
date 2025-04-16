@@ -2,7 +2,7 @@
 
 <H3>Name : Ponguru Aasrith Sairam </H3>
 <H3>Register no. 212223240116 </H3>
-<H3>Date: 16.04.2025</H3>
+<H3>Date: </H3>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
